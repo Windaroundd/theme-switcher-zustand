@@ -13,8 +13,8 @@
 ## 🛠️ Cài đặt & chạy thử
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 Sau đó truy cập: http://localhost:3000
